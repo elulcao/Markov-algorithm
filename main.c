@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @brief Markov algorithm generator text for basic English language
+ * @brief Text generator algorithm for basic English language
  * @author Luis Daniel Carvallo González
  * @version 1.0
  * @date 27/11/2012
