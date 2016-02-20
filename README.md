@@ -1,2 +1,2 @@
 # Markov-algorithm
-Markov algorithm generator text for basic English language
+Text generator algorithm for the basic English language.
